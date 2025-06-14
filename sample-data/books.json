@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "isbn": "9780747532699",
+    "publicationDate": "1997-06-26",
+    "totalCopies": 5,
+    "availableCopies": 3,
+    "authorId": 1,
+    "categoryIds": [1]
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "isbn": "9780747538493",
+    "publicationDate": "1998-07-02",
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "authorId": 1,
+    "categoryIds": [1]
+  },
+  {
+    "title": "1984",
+    "isbn": "9780451524935",
+    "publicationDate": "1949-06-08",
+    "totalCopies": 6,
+    "availableCopies": 4,
+    "authorId": 2,
+    "categoryIds": [8, 4]
+  },
+  {
+    "title": "Animal Farm",
+    "isbn": "9780451526342",
+    "publicationDate": "1945-08-17",
+    "totalCopies": 4,
+    "availableCopies": 3,
+    "authorId": 2,
+    "categoryIds": [4, 8]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "isbn": "9780061120084",
+    "publicationDate": "1960-07-11",
+    "totalCopies": 5,
+    "availableCopies": 2,
+    "authorId": 3,
+    "categoryIds": [4, 7]
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "isbn": "9780062693662",
+    "publicationDate": "1934-01-01",
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "authorId": 4,
+    "categoryIds": [3]
+  },
+  {
+    "title": "The Shining",
+    "isbn": "9780307743657",
+    "publicationDate": "1977-01-28",
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "authorId": 5,
+    "categoryIds": [5]
+  },
+  {
+    "title": "It",
+    "isbn": "9781501142970",
+    "publicationDate": "1986-09-15",
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "authorId": 5,
+    "categoryIds": [5]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "isbn": "9780141439518",
+    "publicationDate": "1813-01-28",
+    "totalCopies": 5,
+    "availableCopies": 3,
+    "authorId": 6,
+    "categoryIds": [4, 6]
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "isbn": "9780684801223",
+    "publicationDate": "1952-09-01",
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "authorId": 7,
+    "categoryIds": [4]
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "isbn": "9780060883287",
+    "publicationDate": "1967-05-30",
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "authorId": 8,
+    "categoryIds": [4]
+  },
+  {
+    "title": "And Then There Were None",
+    "isbn": "9780062073488",
+    "publicationDate": "1939-11-06",
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "authorId": 4,
+    "categoryIds": [3]
+  }
+]

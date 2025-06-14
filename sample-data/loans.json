@@ -1,0 +1,82 @@
+[
+  {
+    "memberId": 1,
+    "bookId": 1,
+    "loanDate": "2025-05-01",
+    "dueDate": "2025-12-15",
+    "returnDate": null,
+    "status": "ACTIVE"
+  },
+  {
+    "memberId": 2,
+    "bookId": 2,
+    "loanDate": "2025-05-05",
+    "dueDate": "2025-12-19",
+    "returnDate": null,
+    "status": "ACTIVE"
+  },
+  {
+    "memberId": 3,
+    "bookId": 3,
+    "loanDate": "2025-05-20",
+    "dueDate": "2025-12-03",
+    "returnDate": "2025-12-02",
+    "status": "RETURNED"
+  },
+  {
+    "memberId": 4,
+    "bookId": 4,
+    "loanDate": "2025-05-08",
+    "dueDate": "2025-12-22",
+    "returnDate": null,
+    "status": "ACTIVE"
+  },
+  {
+    "memberId": 5,
+    "bookId": 5,
+    "loanDate": "2025-05-15",
+    "dueDate": "2025-11-29",
+    "returnDate": null,
+    "status": "OVERDUE"
+  },
+  {
+    "memberId": 6,
+    "bookId": 6,
+    "loanDate": "2025-05-08",
+    "dueDate": "2025-12-22",
+    "returnDate": null,
+    "status": "ACTIVE"
+  },
+  {
+    "memberId": 7,
+    "bookId": 7,
+    "loanDate": "2025-05-25",
+    "dueDate": "2025-12-08",
+    "returnDate": "2025-12-07",
+    "status": "RETURNED"
+  },
+  {
+    "memberId": 8,
+    "bookId": 8,
+    "loanDate": "2025-05-08",
+    "dueDate": "2025-06-22",
+    "returnDate": null,
+    "status": "ACTIVE"
+  },
+  {
+    "memberId": 9,
+    "bookId": 9,
+    "loanDate": "2025-05-08",
+    "dueDate": "2025-12-22",
+    "returnDate": null,
+    "status": "ACTIVE"
+  },
+  {
+    "memberId": 10,
+    "bookId": 10,
+    "loanDate": "2025-05-08",
+    "dueDate": "2025-12-22",
+    "returnDate": null,
+    "status": "ACTIVE"
+  }
+]

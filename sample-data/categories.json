@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Fantasy",
+    "description": "Fiction that commonly uses magic and other supernatural phenomena as a primary plot element, theme, or setting."
+  },
+  {
+    "name": "Science Fiction",
+    "description": "Fiction that deals with futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life."
+  },
+  {
+    "name": "Mystery",
+    "description": "Fiction dealing with the solution of a crime or the unraveling of secrets."
+  },
+  {
+    "name": "Classic Literature",
+    "description": "Literature that is considered to be of the highest artistic merit and has stood the test of time."
+  },
+  {
+    "name": "Horror",
+    "description": "Fiction intended to disturb, frighten, or create suspense through atmosphere and intrigue."
+  },
+  {
+    "name": "Romance",
+    "description": "Fiction that places its primary focus on the relationship and romantic love between two people."
+  },
+  {
+    "name": "Historical Fiction",
+    "description": "Fiction set in the past, typically in a particular historical period, and attempting to convey the spirit and social conditions of a former age."
+  },
+  {
+    "name": "Dystopian",
+    "description": "Fiction set in an imagined world or society in which people lead wretched, dehumanized, fearful lives."
+  }
+]

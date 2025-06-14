@@ -1,0 +1,92 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith@email.com",
+    "phone": "+15550101",
+    "address": "123 Main Street, New York, NY 10001",
+    "membershipDate": "2023-01-15",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "email": "emma.johnson@email.com",
+    "phone": "+15550102",
+    "address": "456 Oak Avenue, Los Angeles, CA 90210",
+    "membershipDate": "2023-02-20",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "email": "michael.brown@email.com",
+    "phone": "+15550103",
+    "address": "789 Pine Road, Chicago, IL 60601",
+    "membershipDate": "2023-03-10",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Davis",
+    "email": "sarah.davis@email.com",
+    "phone": "+15550104",
+    "address": "321 Elm Street, Houston, TX 77001",
+    "membershipDate": "2023-04-05",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Wilson",
+    "email": "david.wilson@email.com",
+    "phone": "+15550105",
+    "address": "654 Maple Drive, Phoenix, AZ 85001",
+    "membershipDate": "2023-05-12",
+    "status": "SUSPENDED"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Garcia",
+    "email": "lisa.garcia@email.com",
+    "phone": "+15550106",
+    "address": "987 Cedar Lane, Philadelphia, PA 19101",
+    "membershipDate": "2023-06-18",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Martinez",
+    "email": "robert.martinez@email.com",
+    "phone": "+15550107",
+    "address": "147 Birch Boulevard, San Antonio, TX 78201",
+    "membershipDate": "2023-07-22",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Anderson",
+    "email": "jennifer.anderson@email.com",
+    "phone": "+15550108",
+    "address": "258 Spruce Circle, San Diego, CA 92101",
+    "membershipDate": "2023-08-14",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Taylor",
+    "email": "james.taylor@email.com",
+    "phone": "+15550109",
+    "address": "369 Walnut Way, Dallas, TX 75201",
+    "membershipDate": "2023-09-03",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Thomas",
+    "email": "mary.thomas@email.com",
+    "phone": "+15550110",
+    "address": "741 Hickory Hill, San Jose, CA 95101",
+    "membershipDate": "2023-10-17",
+    "status": "ACTIVE"
+  }
+]
